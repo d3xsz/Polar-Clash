@@ -73,4 +73,10 @@ local-multiplayer, 2-player, versus, arcade, neon, physics, magnets, party-game,
 - `docs/itch/02_oyun.png` — oynanış
 - `docs/itch/03_ters_kutup.png` — Ters Kutup olayı
 - `docs/itch/04_mac_sonu.png` — maç sonu ekranı
-- Kapak görseli (630×500): henüz yok, prompt ile üretilecek
+- `docs/itch/kapak.png` — kapak (1260×1000, 630×500 oranı)
+- `docs/itch/banner.png` — sayfa başlık bandı
+- `docs/itch/arkaplan.png` — sayfa arka planı
+
+## Tema
+
+BG #0e0b22 · BG2 #17133a (%92) · Metin #e8e4ff · Link #ffc752 · Başlık ve buton #ff6b73

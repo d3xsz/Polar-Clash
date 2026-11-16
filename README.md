@@ -1,5 +1,7 @@
 # Polar Clash
 
+![Polar Clash](docs/itch/kapak.png)
+
 Aynı klavyede iki kişilik, neon temalı bir mıknatıs düellosu. Mıknatısını çevir, ipini fırlat; rakibin renkteki topları kendine çek, kendi renklerini rakibe doğru it. İpler birbirine değerse dilin kopar!
 
 ![Oynanış](docs/itch/02_oyun.png)
@@ -45,4 +47,4 @@ Yalnızca görsel, oynanışı etkilemez. Seçimler kaydedilir.
 
 ## İndir
 
-itch.io: https://d3xs.itch.io/polar-clash
+itch.io: **https://d3xs.itch.io/polar-clash** (Windows, ücretsiz)
