@@ -10,7 +10,9 @@
 
 ## Kısa açıklama (tek cümle)
 
-Aynı klavyede iki kişilik neon mıknatıs düellosu: rakip renkteki topları çek, kendininkileri it, ipler değerse dilin kopar!
+İki kişilik neon mıknatıs düellosu: rakip renkteki topları çek, kendininkileri it, ipler değerse dilin kopar!
+
+(itch kısa açıklama sınırı: 120 karakter)
 
 ## Açıklama
 
@@ -48,6 +50,10 @@ Menüler fareyle de kullanılabilir.
 - Ters Kutup olayı, tuzak duvarlar, hareketli duvar
 - 8 tasarım × 5 iz × 5 efekt kozmetik kombinasyonu
 - Fare ve klavye ile kullanılabilen menüler
+
+## AI beyanı
+
+Yes: Graphics, Text & Dialog, Code. Açıklama: Oyun kodu, kodla üretilen oyun içi görseller ve sayfa metinleri bir yapay zekâ kod asistanı yardımıyla yazıldı; kapak görseli yapay zekâ ile üretildi.
 
 ## Genre
 
