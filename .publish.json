@@ -1,0 +1,16 @@
+{
+  "github": {
+    "remote": "https://github.com/d3xsz/Polar-Clash.git",
+    "branch": "main"
+  },
+  "itch": {
+    "target": "d3xs/polar-clash",
+    "channel": "windows",
+    "buildDir": "Builds/Windows",
+    "version": "1.0.0",
+    "ignore": [
+      "*_BurstDebugInformation_DoNotShip",
+      "*_BackUpThisFolder_ButDontShipItWithYourGame"
+    ]
+  }
+}
